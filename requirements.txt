@@ -1,0 +1,11 @@
+Libraries:
+
+tkinter
+cv2
+pytest
+os
+PIL
+pytesseract
+reportlab.lib.pagesizes
+reportlab.lib.styles
+reportlab.platypus
